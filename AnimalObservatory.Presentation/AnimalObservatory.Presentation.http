@@ -1,0 +1,6 @@
+@AnimalObservatory.Presentation_HostAddress = http://localhost:5081
+
+GET {{AnimalObservatory.Presentation_HostAddress}}/animals/
+Accept: application/json
+
+###
